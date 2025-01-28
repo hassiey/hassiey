@@ -1,0 +1,12 @@
+#define information 
+Name: Hassana Muhammad saleh 
+Email: muhammadsalehhassana@gmail.com
+Mobile number: 08124734746
+Area of interest in bioinformatics: Genomics 
+
+ #print information 
+print("name:",name)
+print("email:",email)
+print("mobile numb:",mobile numb)
+print("area of interest in bioinformatics:",area of interest in bioinformatics)
+    
